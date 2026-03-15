@@ -706,14 +706,10 @@ ul {
   border-color: #4d5ae5;
 }
 
-/* =========================================
-   CHECKBOX & SUBMIT (D4, D5)
-   ========================================= */
 .modal-checkbox-field {
   margin-bottom: 24px;
 }
 
-/* Orijinal checkbox'ı gizler (D4) */
 .visually-hidden {
   position: absolute;
   width: 1px;
@@ -736,7 +732,6 @@ ul {
   align-items: center;
 }
 
-/* Custom Checkbox (D5) */
 .modal-check-box {
   width: 16px;
   height: 16px;
@@ -750,7 +745,6 @@ ul {
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1), border 250ms cubic-bezier(0.4, 0, 0.2, 1), fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-/* Checkbox işaretlendiğinde olacaklar */
 .modal-check:checked+.modal-check-label .modal-check-box {
   background-color: #404bbf;
   border: none;
@@ -762,7 +756,6 @@ ul {
   text-decoration: underline;
 }
 
-/* Gönder Butonu */
 .modal-submit-btn {
   display: block;
   min-width: 169px;
