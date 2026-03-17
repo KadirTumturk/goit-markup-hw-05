@@ -504,13 +504,10 @@ ul {
   height: 64px;
 }
 
-/* Bu div artık footer içindeki diğer elemanlardan bağımsız hareket eder */
 .footer-subscribe-wrapper {
   margin-left: 100px;
-  /* Diğer sütunlarla arandaki mesafe */
 }
 
-/* Başlık üste tek başına */
 .subscribe-title {
   margin-bottom: 16px;
   color: #ffffff;
